@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Fashion Campus` |
+| Sumber | `https://www.kaggle.com/datasets/latifahhukma/fashion-campus` |
+| Lisensi/ketentuan pakai | `unknown` |
+| Ukuran | `~1 GB` |
+| Periode data | `1 Juli 2016 – 1 Agustus 2022` |
+| Unit analisis | `Klik pengguna per sesi(click_stream) dan transaksi pembelian(transactions)` |
 
 ## Tempat Mencari Dataset
 
